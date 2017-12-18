@@ -1,0 +1,34 @@
+title: Sciences En Blog pour les chercheurs
+date: 2017-12-18
+slug: howto
+lang: fr
+status: published
+
+
+## Comment participer ?
+Simplement en nous soumettant (un lien vers) une vulgarisation d'un de vos articles scientifique !
+
+Notre comité de lecture va vous répondre, par exemple pour donner des corrections à apporter.
+
+Une fois qu'il sera satisfait, l'article sera publié.
+
+
+## C'est quoi cette histoire d'hébergement ?
+Beaucoup de doctorants/chercheurs ont des sites personnels, et par conséquent publie eux-même leur vulgarisation. Sciences En Blog n'est de fait qu'un agrégateur
+d'article de vulgarisation de papiers scientifiques.
+
+Néanmoins, beaucoup de doctorants/chercheurs n'ont pas accès à une plateforme de publication : pas de site personnel, pas de site institutionnel,… Sciences En Blog leur permet donc d'héberger leur contenu, c'est-à-dire de le publier directement sur le site.
+
+
+## Et niveau paternité ?
+L'article que vous écrivez n'appartient pas à Sciences En Blog : c'est le vôtre.
+
+
+
+## A qui je m'adresse ?
+Au grand public ; bien sûr, vous pouvez considérer que votre lectorat
+connaît déjà des choses pointues… Mais est-ce encore de la vulgarisation ?
+
+
+## Quelles sujets sont acceptés ?
+Tous, pourvu que l'article vulgarisé

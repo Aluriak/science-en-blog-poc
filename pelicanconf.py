@@ -12,6 +12,12 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
 
+
+# URLS
+INDEX_SAVE_AS = 'articles.html'  # name of the list of all articles (!= home page)
+PAGE_SAVE_AS = '{slug}.html'
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

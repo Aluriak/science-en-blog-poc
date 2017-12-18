@@ -1,2 +1,4 @@
 output/
+Session.vim
+__pycache__/
 venv/
