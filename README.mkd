@@ -1,0 +1,3 @@
+# Sciences En Blog
+Website done with [pelican](https://getpelican.com).
+See it at [https://sciences-en-blog.bourneuf.net](https://sciences-en-blog.bourneuf.net).
