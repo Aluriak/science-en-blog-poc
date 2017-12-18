@@ -1,0 +1,36 @@
+Title: *Finding and studying shelf-eating ants in subsaharian africa*
+Date: 2017-09-21
+Tags: SEB, biologie
+Authors: Michel Duveaufort
+Summary: Michel Duveaufort vulgarise sa publication dans la revue *Biologic explorers*
+Slug: michel17-fourmis-etagere
+lang: fr
+status: published
+
+*Ceci est un exemple fictif de contenu publié et hébergé par Sciences En Blog, c'est-à-dire que michel n'a pas eu besoin d'héberger quoi que ce soit lui-même : il a écrit et soumis un texte, a eu des retours de l'équipe, qui l'a finalemement jugé compatible avec Sciences En Blog, et par conséquent intégré au site. Michel appartient donc à la famille des contributeurs à SEB !*
+
+
+# Un petit mot pour commencer
+*Où l'auteur explique rapidement le contexte de sa publication*
+
+Je suis Michel Duveaufort, et j'ai publié dans *Biologic explorers*, une revue très connue chez les chercheurs qui explorent le monde à la recherche d'espèces rigolotes…
+
+Donc voilà une vulgarisation de mon article, *Finding and studying shelf-eating ants in subsaharian africa*, avec une photo inédite de mon collègue
+qui est tombé dans le nid et qui heureusement pour lui n'était pas une étagère.
+
+
+
+# vulgarisation de l'article
+*Où l'auteur, section par section, explique ce qu'il a publié, à grands renforts d'images et de traductions attentionnées*
+
+
+
+
+# mot de la fin
+*Où l'auteur donne un avis personnel, ou un message à la communauté*
+
+Merci de m'avoir aidé à vulgariser à propos des fourmis mangeuses d'étagères ;
+c'est vraiment un sujet qui me tient à cœur et c'est important que le public
+prenne conscience de la beauté de la nature.
+
+Signé Michel.

@@ -1,0 +1,20 @@
+Title: *About bottle aerodynamism and application in Health*
+Date: 2016-01-12
+Tags: SEB, physique, santé
+Authors: Gislaine Deverre
+Summary: Gislaine Deverre vulgarise sa publication dans la revue *Open Physics*
+Slug: gislaine16-bouteille-aerodynamisme
+lang: fr
+status: published
+
+*ceci est un exemple fictif de contenu publié par Sciences En Blog, c'est-à-dire que Gislaine héberge le contenu ailleurs (son site personnel, dans ce cas) : elle a soumis son texte, a eu des retours de l'équipe, qui l'a finalement jugé compatible avec Sciences En Blog, et par conséquent intégré au site comme un lien vers ledit site personnel. Gislaine fait donc partie de la famille des contributeurs à SEB !*
+
+
+Gislaine Deverre nous parle de son article, *About bottle aerodynamism and application in Health*,
+publié il y a un mois dans la revue *Open Physics*.
+
+[Lien vers son article de vulgarisation](https://blog.gislaine-deverre.fr/4eme-article).
+
+Elle nous laisse également un petit mot :
+
+> Merci à vous, Sciences En Blog ! Je n'aurais jamais pensé vulgariser mon sujet de publication dans mon blog personnel. Merci pour votre aide et comptez sur moi pour mon prochain article !
