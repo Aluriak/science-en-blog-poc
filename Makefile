@@ -80,7 +80,8 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 
-upload: publish
+upload: publish upload_rsync
+upload_rsync:
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish upload

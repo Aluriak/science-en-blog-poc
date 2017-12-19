@@ -1,4 +1,4 @@
-Title: Sciences En Blog
+Title: Accueil
 date: 2017-12-18
 lang: fr
 status: published
@@ -12,7 +12,7 @@ Sciences En Blog, SEB pour les intimes, est une initiative de vulgarisation scie
 qui consiste à aggréger des vulgarisations d'articles scientifiques pour le grand publique.
 
 Vous êtes doctorant ou chercheur ? Vous avez publié un article scientifique ?
-Consultez [la page dédiée]({filename}/page/howto.mkd), et soumettez sa vulgarisation à Sciences En Blog.
+Consultez [la page dédiée]({filename}/pages/howto.mkd), et soumettez sa vulgarisation à Sciences En Blog.
 
 Vous êtes un lecteur avide de nouveautés ?
-[Écumez les articles de vulgarisation publiés par Sciences En Blog !]({})
+[Écumez les articles de vulgarisation publiés par Sciences En Blog !]({category}articles)

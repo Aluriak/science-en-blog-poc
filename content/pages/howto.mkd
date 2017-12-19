@@ -1,4 +1,4 @@
-title: Sciences En Blog pour les chercheurs
+title: Participer
 date: 2017-12-18
 slug: howto
 lang: fr
