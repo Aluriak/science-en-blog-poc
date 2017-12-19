@@ -40,3 +40,13 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+# Pelican plugins
+PLUGIN_PATHS = ['./pelican-plugins', './myplugins']
+PLUGINS = [
+    'liquid_tags.img',  # liquid tag
+    'liquid_tags.video',
+    'section_number',
+    'render_math',  # get latex-like math extension
+]
