@@ -23,6 +23,17 @@ qui est tombé dans le nid et qui heureusement pour lui n'était pas une étagè
 # vulgarisation de l'article
 *Où l'auteur, section par section, explique ce qu'il a publié, à grands renforts d'images et de traductions attentionnées*
 
+Voilà [une fourmis tisserande](https://fr.wikipedia.org/wiki/Oecophylla_smaragdina). Rien à voir avec la fourmi mangeuse d'étagère, mais elle est jolie aussi :
+
+<center>{% img https://upload.wikimedia.org/wikipedia/commons/f/fa/Oecophylla_smaragdina_MHNT_reine.jpg 700 "photo d'une fourmis tisserande" %}</center>
+
+Et là, l'équation mathématique \ref{math-is-awesome} pour montrer
+comment ça marche trop bien les maths avec markdown :
+
+\begin{equation}
+    C^i_j = {\textstyle \sum_k} A^i_k B^k_j
+    \label{math-is-awesome}
+\end{equation}
 
 
 
